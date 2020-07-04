@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name Libreria_EDU_CIAA_NXP)(type KiCad)(uri ${KIPRJMOD}/Libreria_EDU_CIAA_NXP.pretty)(options "")(descr ""))
-  (lib (name "placa de motores")(type KiCad)(uri "${KIPRJMOD}/placa de motores.pretty")(options "")(descr ""))
-  (lib (name Ponchos-master)(type KiCad)(uri ${KIPRJMOD}/Ponchos-master.pretty)(options "")(descr ""))
-  (lib (name modelos)(type KiCad)(uri ${KIPRJMOD}/Ponchos-master/modelos.pretty)(options "")(descr ""))
-)
